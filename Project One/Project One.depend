@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1663369007 source:c:\users\sony\documents\academia\university\cs 2337\project one\creature.cpp
+	"Creature.h"
+
+1663645157 c:\users\sony\documents\academia\university\cs 2337\project one\creature.h
+	<iostream>
+	<string>
+
+1663906223 source:c:\users\sony\documents\academia\university\cs 2337\project one\main.cpp
+	"Creature.h"
+	"Ant.h"
+	"Beetle.h"
+	<fstream>
+	<iostream>
+	<string>
+	<stdlib.h>
+
+1663905989 source:c:\users\sony\documents\academia\university\cs 2337\project one\ant.cpp
+	"Ant.h"
+	<string>
+	<climits>
+
+1663644316 c:\users\sony\documents\academia\university\cs 2337\project one\ant.h
+	"Creature.h"
+	<string>
+	<iostream>
+
+1663645090 source:c:\users\sony\documents\academia\university\cs 2337\project one\beetle.cpp
+	"Beetle.h"
+	<stdlib.h>
+	<climits>
+
+1663631280 c:\users\sony\documents\academia\university\cs 2337\project one\beetle.h
+	"Creature.h"
+	<iostream>
+	<string>
+
+1663625127 c:\users\sony\documents\academia\university\cs 2337\project one\helper.h
+	<string>
+	<iostream>
+
+1663644426 c:\users\sony\documents\academia\university\cs 2337\project one\position.h
+	<string>
+	<iostream>
+
+1663644456 source:c:\users\sony\documents\academia\university\cs 2337\project one\position.cpp
+	"Position.h"
+	<stdlib.h>
+

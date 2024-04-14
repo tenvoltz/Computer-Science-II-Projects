@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1668643523 source:c:\users\sony\documents\academia\university\freshman fall 2022\cs 2337\project four\hashmap.cpp
+	"HashMap.h"
+
+1670048836 c:\users\sony\documents\academia\university\freshman fall 2022\cs 2337\project four\hashmap.h
+	<vector>
+	<string>
+	<cmath>
+	<iostream>
+	<iomanip>
+	<set>
+
+1670046723 source:c:\users\sony\documents\academia\university\freshman fall 2022\cs 2337\project four\main.cpp
+	"Player.h"
+	"HashMap.h"
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+
+1670049492 source:c:\users\sony\documents\academia\university\freshman fall 2022\cs 2337\project four\player.cpp
+	"Player.h"
+	<iostream>
+	<string>
+	<math.h>
+	<iomanip>
+	<sstream>
+
+1669693822 c:\users\sony\documents\academia\university\freshman fall 2022\cs 2337\project four\player.h
+	<iostream>
+	<string>
+

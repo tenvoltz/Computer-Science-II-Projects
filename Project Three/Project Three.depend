@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1667882075 source:c:\users\sony\documents\academia\university\freshman fall 2022\cs 2337\project three\main.cpp
+	"BinarySearchTree.h"
+	"Term.h"
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<vector>
+	<iomanip>
+
+1667769901 c:\users\sony\documents\academia\university\freshman fall 2022\cs 2337\project three\binarysearchtree.h
+	<iostream>
+	<vector>
+	"Node.h"
+
+1667882272 c:\users\sony\documents\academia\university\freshman fall 2022\cs 2337\project three\node.h
+
+1667882092 source:c:\users\sony\documents\academia\university\freshman fall 2022\cs 2337\project three\term.cpp
+	"Term.h"
+	<math.h>
+
+1667769906 c:\users\sony\documents\academia\university\freshman fall 2022\cs 2337\project three\term.h
+	<iostream>
+	<string>
+	<math.h>
+

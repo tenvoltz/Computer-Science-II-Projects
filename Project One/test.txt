@@ -1,0 +1,10 @@
+    B aa
+   B   aa
+  B     aa
+ B       a
+B       aa
+       aa
+a     aa
+aa   aa  B
+ aa aa  B
+  aaa  B

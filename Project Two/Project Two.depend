@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1665472321 source:c:\users\sony\documents\academia\university\cs 2337\project two\main.cpp
+	"LinkedList.h"
+	"LinkedList.cpp"
+	"Node.h"
+	"Player.h"
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<iomanip>
+
+1665472602 source:c:\users\sony\documents\academia\university\cs 2337\project two\player.cpp
+	"Player.h"
+	<iostream>
+	<string>
+	<math.h>
+	<iomanip>
+	<sstream>
+
+1665471084 c:\users\sony\documents\academia\university\cs 2337\project two\player.h
+	<iostream>
+	<string>
+
+1665471129 source:c:\users\sony\documents\academia\university\cs 2337\project two\linkedlist.cpp
+	"LinkedList.h"
+	<iostream>
+
+1665469941 c:\users\sony\documents\academia\university\cs 2337\project two\linkedlist.h
+	"Node.h"
+
+1665469949 c:\users\sony\documents\academia\university\cs 2337\project two\node.h
+	<iostream>
+
+1664991761 source:c:\users\sony\documents\academia\university\cs 2337\project two\node.cpp
+	"Node.h"
+
+1664991597 c:\users\sony\documents\academia\university\cs 2337\project two\node.cpp
+	"Node.h"
+	<iostream>
+
+1665471129 c:\users\sony\documents\academia\university\cs 2337\project two\linkedlist.cpp
+	"LinkedList.h"
+	<iostream>
+
+1666413426 source:c:\users\sony\documents\academia\university\freshman fall 2022\cs 2337\project two\linkedlist.cpp
+
+1666419065 c:\users\sony\documents\academia\university\freshman fall 2022\cs 2337\project two\linkedlist.h
+	"Node.h"
+	<iostream>
+
+1666418496 c:\users\sony\documents\academia\university\freshman fall 2022\cs 2337\project two\node.h
+	<iostream>
+
+1664988161 source:c:\users\sony\documents\academia\university\freshman fall 2022\cs 2337\project two\node.cpp
+	"Node.h"
+
+1666419082 source:c:\users\sony\documents\academia\university\freshman fall 2022\cs 2337\project two\player.cpp
+	"Player.h"
+	<iostream>
+	<string>
+	<math.h>
+	<iomanip>
+	<sstream>
+
+1666418501 c:\users\sony\documents\academia\university\freshman fall 2022\cs 2337\project two\player.h
+	<iostream>
+	<string>
+
+1666419152 source:c:\users\sony\documents\academia\university\freshman fall 2022\cs 2337\project two\main.cpp
+	"LinkedList.h"
+	"LinkedList.cpp"
+	"Node.h"
+	"Player.h"
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<iomanip>
+
+1666413426 c:\users\sony\documents\academia\university\freshman fall 2022\cs 2337\project two\linkedlist.cpp
+
